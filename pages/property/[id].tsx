@@ -1,6 +1,6 @@
 import { PROPERTYLISTINGSAMPLE } from "@/constants";
 import { useRouter } from "next/router";
-import PropertyDetail from "@/components/property/PropertyDeatil";
+import PropertyDetail from "@/components/property/PropertyDetail";
 import BookingSection from "@/components/property/BookingSection";
 import ReviewSection from "@/components/property/ReviewSection";
 

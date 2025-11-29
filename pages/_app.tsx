@@ -1,5 +1,5 @@
 import Layout from "@/components/layout/Layout";
-import PropertyDetail from "@/components/property/PropertyDeatil";
+import PropertyDetail from "@/components/property/PropertyDetail";
 
 import "@/styles/globals.css";
 import type { AppProps } from "next/app";
